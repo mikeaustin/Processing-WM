@@ -1,0 +1,371 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"time"
+			],
+			[
+				"_co",
+				"_commands2"
+			],
+			[
+				"Term",
+				"TerminalMessage"
+			],
+			[
+				"exec",
+				"executeCommand"
+			],
+			[
+				"__",
+				"__FlashStringHelper"
+			],
+			[
+				"get",
+				"getType"
+			],
+			[
+				"Data",
+				"DataType"
+			],
+			[
+				"_task",
+				"_taskContext"
+			],
+			[
+				"ret",
+				"retValue"
+			],
+			[
+				"task",
+				"task"
+			],
+			[
+				"ma",
+				"marshal"
+			],
+			[
+				"_",
+				"_runningTasks"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"type",
+				"typename"
+			],
+			[
+				"No",
+				"NodeType"
+			],
+			[
+				"run",
+				"runThread"
+			],
+			[
+				"St",
+				"String"
+			],
+			[
+				"_fir",
+				"_firstCommand"
+			],
+			[
+				"comm",
+				"commands"
+			],
+			[
+				"ad",
+				"addNode"
+			],
+			[
+				"e",
+				"execute"
+			],
+			[
+				"ge",
+				"getType"
+			],
+			[
+				"Ty",
+				"TypeInfo"
+			],
+			[
+				"_first",
+				"_firstThread"
+			],
+			[
+				"args",
+				"args"
+			],
+			[
+				"u",
+				"unsigned"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mikeaustin/Documents/Processing/WM/WM.pde",
+		"/Users/mikeaustin/Projects/impulse++/parser.cpp",
+		"/Users/mikeaustin/Documents/Processing/WM/Widgets.pde",
+		"/Users/mikeaustin/Documents/Processing/WM/Views.pde",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core/Nexus_Terminal.cpp",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core/Nexus_Terminal.h",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core/Nexus_Scheduler.cpp",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core/Nexus_Scheduler.h",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core/Nexus_Message.cpp",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core/Nexus_Commands.h",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core/Nexus_Message.h",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core/Nexus_Shell.cpp",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core/Nexus_Shell.h",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core/Nexus_Task.cpp",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core/Nexus_Task.h",
+		"/Users/mikeaustin/Documents/Wedding Checklist - Google Drive_files/2731623389-kix_main_i18n_kix_core.js",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core.cpp",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core.h",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus.h",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core/Nexus_List.h",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core/Nexus_List.cpp",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus_OS/Nexus_Core/Nexush_Shell.h",
+		"/Users/mikeaustin/Downloads/Arduino.app/Contents/Resources/Java/libraries/SD/src/utility/Sd2Card.cpp",
+		"/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.h",
+		"/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/avr/cores/arduino/Stream.h",
+		"/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/avr/cores/arduino/HardwareSerial0.cpp",
+		"/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.cpp",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus/Nexus_Core/Nexus_Thread.h",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus/Nexus_Core/Nexus_Scheduler.cpp",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus/Nexus_Core/Nexus_Scheduler.h",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus/Nexus_Core/Nexus_Shell.cpp",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus/Nexus_Core/Nexus_String.h",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus/Nexus_Core/Nexus_String.cpp",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus/Nexus_Core.cpp",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus/Nexus_Core/Nexus_List.h",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus/Nexus_Core/Nexus_Thread.cpp",
+		"/Users/mikeaustin/Documents/Arduino/Nexus2/Nexus2.ino",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus/Nexus_Core.h",
+		"/Users/mikeaustin/Documents/Arduino/Nexus3/Nexus3.ino",
+		"/Users/mikeaustin/Documents/Arduino/libraries/Nexus/Nexus_Core/Nexus_List.cpp",
+		"/Users/mikeaustin/Library/Application Support/Sublime Text 3/Packages/User/Default.sublime-theme"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"micros",
+			"idle",
+			"micros",
+			"idle",
+			"_stream",
+			"parent",
+			"task",
+			"rettype",
+			"dataimpl",
+			"here",
+			"retval",
+			"any",
+			"base",
+			"virtu",
+			"_written",
+			"index",
+			"Serial",
+			"foo",
+			"char",
+			"function",
+			"CommandHelp",
+			"immut",
+			"__FlashStringHelper",
+			"type",
+			"ArrayBase",
+			"eval",
+			"array",
+			"signature",
+			"array",
+			"args",
+			"_sender",
+			"_label",
+			"getnextnode",
+			"getNextNode()",
+			"type",
+			"typeid",
+			"type",
+			"\"",
+			"outmessage",
+			"thread_send",
+			"_mesg",
+			"_message",
+			"message",
+			"lastrun",
+			"scheduler"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Nexus2":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_log":
+	{
+		"height": 100.0
+	},
+	"project": "WM.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
